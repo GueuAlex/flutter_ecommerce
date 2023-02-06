@@ -48,7 +48,7 @@ class _IntroState extends State<Intro> {
                             width: 7,
                           ),
                           const Text(
-                            'Côte d\'Ivoire',
+                            'Côte d\'Ivoiree',
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w500),
